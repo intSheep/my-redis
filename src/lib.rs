@@ -1,4 +1,5 @@
 mod server;
+mod db;
 
 use clap::Error;
 
